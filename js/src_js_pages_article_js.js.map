@@ -1,0 +1,1 @@
+{"version":3,"file":"js/src_js_pages_article_js.js","mappings":";;;;;;;;;;;;;AAAA,IAAMA,OAAO,GAAG,SAAVA,OAAOA,CAAA,EAAS,CAAC,CAAC;AAExB,iEAAeA,OAAO","sources":["webpack:///./src/js/pages/article.js"],"sourcesContent":["const article = () => {};\r\n\r\nexport default article;\r\n"],"names":["article"],"sourceRoot":""}
